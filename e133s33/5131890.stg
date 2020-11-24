@@ -2,3 +2,8 @@ OBJECT_SHARED Models/Airport/ndb.ac 133.726944 -32.126667 27.51 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 133.592 -32.1883 -1.71 253.62
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 133.7 -32.2167 -0.21 3.14
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 133.595 -32.1883 -1.79 166.93
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 133.69902 -32.12561 15.38 40.26
+# END dsf2stg
